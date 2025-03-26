@@ -6,10 +6,10 @@ This project focuses on enhancing product recommendations and understanding mark
 ## Dataset Structure 
 The dataset for this project was organized into a SQL-based data warehouse with multiple tables for customer data, sales records, product information, and regional market data. The primary data structure used for this analysis and modeling is the combination of two major sources:
 
-  * [Superstore Data](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/data/Superstore-Data.csv): Superstore purchase history and revenue data.
-  * [Superstore Reviews Data](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/data/Superstore-Dataset-Reviews.csv): Rating, review and summary of the product given by the customer. 
+  * [Superstore Data](https://github.com/Mamta013/Product-Recommendation-System/blob/main/data/Superstore-Data.csv): Superstore purchase history and revenue data.
+  * [Superstore Reviews Data](https://github.com/Mamta013/Product-Recommendation-System/blob/main/data/Superstore-Dataset-Reviews.csv): Rating, review and summary of the product given by the customer. 
     
-Note: The dataset comprised 10,000+ records, divided into 36 columns, the feature-target description you can see [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/data/Features_Target_Description.txt).
+Note: The dataset comprised 10,000+ records, divided into 36 columns, the feature-target description you can see [here](https://github.com/Mamta013/Product-Recommendation-System/blob/main/data/Features_Target_Description.txt).
 
 
 ## Executive Summary
@@ -19,15 +19,9 @@ Key insights included the dominance of the "Consumer" segment in profitability, 
 
 
 ## Codes
-* The targed **SQL queries** regarding various business questions can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Products-Analysis.sql).
-* The interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/nikita.prasad/viz/QuarterlySalesForecastingAnalysisDahboard/AnalysisDashboard).
-* The **Python Pipeline** used for EDA, Model Building for Recommendation Systems and Deployment of model can be found [here](https://github.com/nikitaprasad21/Product-Recommendation-Analysis-Project/blob/main/notebooks/Product-Recommendation-Project.ipynb).
-* The **Recommendation App** demo can be found [here](https://huggingface.co/spaces/nikitaprasad-analyst/product-recommendation-system).
+* The targed **SQL queries** regarding various business questions can be found [here](https://github.com/Mamta013/Product-Recommendation-System/blob/main/notebooks/Products-Analysis.sql).
+* The **Python Pipeline** used for EDA, Model Building for Recommendation Systems and Deployment of model can be found [here](https://github.com/Mamta013/Product-Recommendation-System/blob/main/notebooks/Product-Recommendation-Project.ipynb).
 
-## Dashboard
-
-Here is the glimpse of dashboard.
-![Screenshot 2023-04-12 165416](https://user-images.githubusercontent.com/84131752/231447810-39810cfc-f423-4463-b6c8-e2eb4c73f878.png)
 
 
 ## Insights
